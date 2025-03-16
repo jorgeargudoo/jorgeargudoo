@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there! 👋 I'm Jorge Argudo
+I'm currently a third-year Data Science student at UPV (Universitat Politècnica de València) 🎓. I’m passionate about exploring how data can unlock new insights in various fields.
 
+Right now, I’m working on an exciting project focused on predicting the popularity of songs, and uncovering the musical patterns that make a track a potential HIT 💥. It’s all about blending data with creativity to understand what makes music resonate with audiences worldwide. 🌍
+
+Feel free to check out my repositories and collaborate on interesting projects! 🚀
 <!--
 **jorgeargudoo/jorgeargudoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
