@@ -1,9 +1,13 @@
 ## Hi there! 👋 I'm Jorge Argudo
-I'm currently a third-year Data Science student at UPV (Universitat Politècnica de València) 🎓. I’m passionate about exploring how data can unlock new insights in various fields.
 
-Right now, I’m working on an exciting project focused on predicting the popularity of songs, and uncovering the musical patterns that make a track a potential HIT 💥. It’s all about blending data with creativity to understand what makes music resonate with audiences worldwide. 🌍
+I'm a Data Science graduate from UPV (Universitat Politècnica de València) 🎓 and I'm currently pursuing a Master's Degree in Artificial Intelligence and Pattern Recognition at UPV.
 
-Feel free to check out my repositories and collaborate on interesting projects! 🚀
+I'm especially interested in Artificial Intelligence, Machine Learning and Data Science, and I enjoy applying these fields to real-world problems through practical projects.
+
+Throughout my studies, I've worked with different machine learning techniques and AI approaches, and I'm currently focused on expanding my knowledge in more advanced areas of artificial intelligence.
+
+I'm always looking for opportunities to build new projects and gain experience in the field!
+
 <!--
 **jorgeargudoo/jorgeargudoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
